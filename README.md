@@ -22,7 +22,7 @@ A simple and interactive countdown timer built with **Next.js** and **TypeScript
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/countdown-timer-app.git
+   git clone https://github.com/Sheikh-Muhammad-Mujtaba/countdown_timer_nextjs.git
    ```
 
 2. Navigate to the project directory:
